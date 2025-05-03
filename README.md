@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Knackige-Ananass
+- 👀 I’m interested in coding and cyber security
+- 🌱 I’m currently learning how to program an webserver using django and bootstrap5
